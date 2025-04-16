@@ -17,10 +17,9 @@ FEATURES:
 
 # SCREENSHOTS
 MAIN SCREEN:
-
+![Screenshot 2025-04-16 225607](https://github.com/user-attachments/assets/cd3ca235-ec47-4fc3-91aa-c8b1598bebad)
 
 TAKING ATTENDANCE:
-
 
 SHOWING ATTENDANCE TAKEN:
 
